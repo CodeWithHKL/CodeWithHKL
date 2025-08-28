@@ -8,4 +8,6 @@ So...I'm a Software Engineering student, kinda programming heavy, mainly focusin
 ⚡ NLP Configuration
 ⚡ Python Backend Systems
 
- If you want to have a fun conversation, discussion, or collaboration on these topics, you know who to find. I guess that sums up the relevant information of myself....and yea, if you wonder, I will NOT fix your computer!
+If you want to have a fun conversation, discussion, or collaboration on these topics, you know who to find.
+
+I guess that sums up the relevant information of myself....and yea, if you wonder, I will NOT fix your computer!
