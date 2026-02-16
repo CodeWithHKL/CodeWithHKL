@@ -1,7 +1,5 @@
 ## Hi Welcome! I'm Haikal.
 
-![Dark Cat Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 ## 🚀 About Me
 - 🔭 I'm a **Software Engineering** student
 - 🌱 I like to build **cool web apps**
@@ -21,9 +19,6 @@
 | [HKL Portfolio](https://hklxportfolio.vercel.app) | My personal portfolio | HTML, CSS, JS, Next.js |
 | [Task Manager](https://github.com/CodeWithHKL/task-manager) | A simple todo app | React, Node.js |
 | [ML Model](https://github.com/CodeWithHKL/ml-model) | Predicts house prices | Python, scikit-learn |
-
-## 📈 GitHub Stats
-![HKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithHKL&show_icons=true&theme=radical&count_private=true
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithHKL)
