@@ -3,11 +3,10 @@
 ![Dark Cat Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 🚀 About Me
-- 🔭 I’m currently building **cool web apps**
-- 🌱 I’m learning **Machine Learning & Cloud Computing**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **Python, JavaScript, React**
-- ⚡ Fun fact: I love **cats and coffee** 🐱☕
+- 🔭 I'm a **Software Engineering** student
+- 🌱 I like to build **cool web apps**
+- 💬 I’m learning **AI & Cloud Computing**
+- ⚡ Fun fact: Addicted to **coffe** ☕
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,12 +22,8 @@
 | [Task Manager](https://github.com/CodeWithHKL/task-manager) | A simple todo app | React, Node.js |
 | [ML Model](https://github.com/CodeWithHKL/ml-model) | Predicts house prices | Python, scikit-learn |
 
-## 🐱 Fun Cat Corner
-![Cute Cat 1](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
-![Cute Cat 2](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
 ## 📈 GitHub Stats
-![HKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithHKL&show_icons=true&theme=dark)
+![HKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithHKL&show_icons=true&theme=radical&count_private=true
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithHKL)
