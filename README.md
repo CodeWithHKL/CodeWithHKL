@@ -4,7 +4,7 @@
 - 🔭 I'm a **Software Engineering** student
 - 🌱 I like to build **cool web apps**
 - 💬 I’m learning **AI & Cloud Computing**
-- ⚡ Not a coffee guy, more to **Ice Choc** ☕
+- ☕ Not a coffee guy, more to **Ice Choc**
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,12 +22,13 @@
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 💻 Featured Projects
+## 💻 Featured Live Demo
 | Project | Description | Tech |
 |---------|-------------|------|
 | [HKL Portfolio](https://hklxportfolio.vercel.app) | My personal portfolio | HTML, TS, Next.js, Tailwind |
 | [UNITEN Chatbot](https://cohere-chatbot-ui.vercel.app) | University chatbot concept | Node.js, TS, REST |
 | [Password Generator API](https://hklx-pass-genapi.vercel.app) | Strong password generator  | Python, FastAPI |
+| [HKL Movie Archive](https://hkl-movie-archive.vercel.app) | Personal shows & movies archive  | Next.js, TS, Tailwind |
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithHKL)
