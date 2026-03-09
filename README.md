@@ -25,10 +25,10 @@
 ## 💻 Featured Live Demo
 | Project | Description | Tech |
 |---------|-------------|------|
-| [HKL Portfolio](https://hklxportfolio.vercel.app) | My personal portfolio | HTML, TS, Next.js, Tailwind |
-| [UNITEN Chatbot](https://cohere-chatbot-ui.vercel.app) | University chatbot concept | Node.js, TS, REST |
-| [Password Generator API](https://hklx-pass-genapi.vercel.app) | Strong password generator  | Python, FastAPI |
-| [HKL Movie Archive](https://hkl-movie-archive.vercel.app) | Personal shows & movies archive  | Next.js, TS, Tailwind |
+| [HKL Portfolio](https://hklxportfolio.vercel.app) | My personal software developer portfolio | Next.js, TypeScript, Tailwind |
+| [UNITEN Chatbot](https://cohere-chatbot-ui.vercel.app) | University chatbot concept using Cohere LLM | Node.js, TypeScript |
+| [Password Generator API](https://hklx-pass-genapi.vercel.app) | Strong password generator with high entropy  | Python, FastAPI |
+| [HKL Movie Archive](https://hkl-movie-archive.vercel.app) | My personal movies/shows archive with analytics  | Next.js, TypeScript, Tailwind |
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithHKL)
